@@ -1,0 +1,6 @@
+tap "adoptopenjdk/openjdk"
+tap "heroku/brew"
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "ca-certificates"
+brew "cocoapods"
